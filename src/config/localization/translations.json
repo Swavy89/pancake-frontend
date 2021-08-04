@@ -1354,5 +1354,15 @@
   "The price you see come from difference places": "The price you see come from difference places",
   "Prices on cards come from Chainlink’s verifiable price oracle.": "Prices on cards come from Chainlink’s verifiable price oracle.",
   "Prices on charts come from Binance.com. Chart's are provided for your reference only.": "Prices on charts come from Binance.com. Chart's are provided for your reference only.",
-  "Only the price from Chainlink (shown on the cards) determines the round's result.": "Only the price from Chainlink (shown on the cards) determines the round's result."
+  "Only the price from Chainlink (shown on the cards) determines the round's result.": "Only the price from Chainlink (shown on the cards) determines the round's result.",
+  "User": "User",
+  "Net Winnings (BNB)": "Net Winnings (BNB)",
+  "Win Rate": "Win Rate",
+  "Rounds Won": "Rounds Won",
+  "Rank By": "Rank By",
+  "Net Winnings": "Net Winnings",
+  "Total Winnings": "Total Winnings",
+  "Total Bets": "Total Bets",
+  "All Others": "All Others",
+  "%num%m": "%num%m"
 }
