@@ -1,12 +1,12 @@
 {
-  "short_name": "PancakeSwap",
-  "name": "PancakeSwap",
-  "description": "Farm CAKE with Pancake LP Tokens",
+  "short_name": "EmevineFinance",
+  "name": "EmevineFinance",
+  "description": "Farm VINE with Emevine LP Tokens",
   "homepage_url": "https://pancakeswap.finance",
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#1FC7D4",
-  "background_color": "#ffffff",
+  "theme_color": "#27578e",
+  "background_color": "#fbd343",
   "orientation": "portrait",
   "icons": [
     {
