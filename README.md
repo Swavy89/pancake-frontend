@@ -1,7 +1,3 @@
-# 🥞 Pancake Frontend
+# 🥞 EmevineFinance Frontend
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/7bebf1a3-be7b-4165-afd1-446256acd5e3/deploy-status)](https://app.netlify.com/sites/pancake-prod/deploys)
-
-This project contains the main features of the pancake application.
-
-If you want to contribute, please refer to the [contributing guidelines](./CONTRIBUTING.md) of this project.
+[[![Netlify Status](https://api.netlify.com/api/v1/badges/c811c72d-7a7c-45b7-83c0-60f98a422c77/deploy-status)](https://app.netlify.com/sites/amazing-sinoussi-7e8afe/deploys)
